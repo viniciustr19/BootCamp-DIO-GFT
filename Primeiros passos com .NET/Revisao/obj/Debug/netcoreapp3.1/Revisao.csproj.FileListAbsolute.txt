@@ -1,0 +1,14 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

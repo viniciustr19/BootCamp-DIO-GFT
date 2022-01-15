@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "04gBQgIfN+kEnO71jTrIWLvnZ2+3cXaB603jpAzcMVGNyTzWqi+YsCh8/+x41pBLAlebCtd8xuDh269q55EMoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Vinícius\\DIO\\BootCampGFT\\BootCamp-DIO-GFT\\Primeiros passos com .NET\\Revisao\\Revisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

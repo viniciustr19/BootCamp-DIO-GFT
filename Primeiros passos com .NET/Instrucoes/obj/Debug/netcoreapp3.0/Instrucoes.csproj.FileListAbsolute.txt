@@ -1,0 +1,5 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Vinícius\DIO\BootCampGFT\BootCamp-DIO-GFT\Primeiros passos com .NET\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache
