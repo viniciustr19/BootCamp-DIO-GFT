@@ -1,0 +1,9 @@
+-------------------------------Aula 01-----------------------------------------------------
+
+Repositório oficial dotnet no github -> core/core-repos.md at main · dotnet/core (github.com)
+
+Documentação da plataforma .NET -> https://docs.microsoft.com/pt-br/dotnet/
+
+Site oficial .NET Foundation -> .NET Foundation (dotnetfoundation.org)
+
+#############################################################################################
